@@ -4,7 +4,7 @@
 
 This is an AI agent-based app that helps clinical trial coordinators **screen patients for eligibility** based on medical notes. The system uses natural language processing (NLP) to extract conditions, predict smoking status using a BERT classifier, and apply inclusion/exclusion criteria defined by the trial.
 
-[🌐 View the Live App on hosted on Streamlit](ai-patientscreener-324tw2anqbnm9a2cbpnaqs.streamlit.app/)
+[🌐 View the Live App on hosted on Streamlit](https://ai-patientscreener-324tw2anqbnm9a2cbpnaqs.streamlit.app/)
 
 ---
 
